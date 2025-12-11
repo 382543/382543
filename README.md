@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">👋 Hey, I'm Sushila</h1>
+<p align="center">Full-Stack Developer | AI/ML Enthusiast | UI/UX Designer</p>
 
-<!--
-**382543/382543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 B.Tech @ VIT-AP  
+- 💻 Full-Stack Developer  
+- 🤖 Exploring AI/ML  
+- 🎨 UI/UX Designer  
+- 📱 Building DietLens (ML + Health)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔗 Connect With Me
+[LinkedIn](https://linkedin.com/in/yerukala-sushila-117056267)  
+[Portfolio](https://382543.github.io/sushi_portfolio/)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=382543&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=382543&theme=tokyonight" />
+</p>
