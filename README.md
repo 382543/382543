@@ -31,11 +31,15 @@
 </p>
 
 ---
+## 🚀 Featured Projects
 
-## 📌 Featured Projects
-- **DietLens** – Food detection + health recommendations  
-- **Portfolio Website** – Clean, responsive UI  
-- **Gym Tracker (Python)** – Simple workout tracker  
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| <span style="background:#6a0dad;color:white;padding:3px 6px;border-radius:4px;">AI</span> <span style="background:#1e90ff;color:white;padding:3px 6px;border-radius:4px;">ML</span> **DietLens** | AI-powered food recognition + PCOD nutrition suggestions | Python, ML, React (future), FastAPI (future) | [Repo](#) |
+| <span style="background:#ff9800;color:white;padding:3px 6px;border-radius:4px;">Python</span> **Gym Tracker** | Tracks daily workouts and logs exercises | Python | [Repo](https://github.com/382543/gym) |
+| <span style="background:#3498db;color:white;padding:3px 6px;border-radius:4px;">Frontend</span> **Portfolio Website** | Personal responsive portfolio with galaxy animations | HTML, CSS, JS, Tailwind | [Live](https://382543.github.io/sushi_portfolio/) |
+| <span style="background:#8bc34a;color:white;padding:3px 6px;border-radius:4px;">UI/UX</span> **AI Health Booth** | Stress & PCOD assistant with animated chatbot | HTML, CSS, JS, Figma | (Repo coming soon) |
+  
 
 ---
 
