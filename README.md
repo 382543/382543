@@ -15,7 +15,7 @@
 ## 🔗 Connect With Me
 - **Portfolio** – https://382543.github.io/sushi_portfolio/  
 - **LinkedIn** – https://www.linkedin.com/in/yerukala-sushila-117056267  
-- **Email** – yerukalasushila@gmail.com  
+- **Email** – susheelay160@gmail.com 
 
 ---
 
